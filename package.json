@@ -1,0 +1,25 @@
+{
+  "name": "antra-cli-quiz",
+  "version": "0.0.1",
+  "description": "a simple console quiz game",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+  "type":"git",
+  "url":"https://github.com/mis-coder/antra-cli-quiz"
+  },
+  "scripts": {
+    "start":"node ."
+  },
+  "bin":"./index.js",
+  "keywords": [],
+  "author": "Antra Verma",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "chalk-animation": "^1.6.0",
+    "figlet": "^1.5.2",
+    "gradient-string": "^2.0.0",
+    "inquirer": "^8.2.0"
+  }
+}
