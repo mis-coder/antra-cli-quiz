@@ -1,6 +1,6 @@
 {
   "name": "antra-cli-quiz-game",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a simple console quiz game",
   "main": "index.js",
   "type": "module",
